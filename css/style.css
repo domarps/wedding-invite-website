@@ -379,6 +379,14 @@ img {
 	display: block;
 }
 
+.location {
+  max-width: 5%;
+  max-height: 5%;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .title h1 {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
@@ -424,6 +432,14 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	font-size: 16px;
+}
+
+.timeloc p {
+	color: #564861;
+	margin: 30px 0 20px;
+	letter-spacing: 3px;
+	font-size: 16px;
+	text-align: center;
 }
 
 .wrap {
@@ -574,6 +590,6 @@ a {
 
 .actions {
 	display: flex;
-	font-size: 12px;
+	font-size: 18px;
 	letter-spacing: 0pt;
 }
