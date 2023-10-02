@@ -371,6 +371,7 @@ img {
 	right: 0;
 	display: block;
 	margin-top: 150px;
+	z-index: -1;
 }
 
 .top-left-decoration {
@@ -379,6 +380,7 @@ img {
 	left: 0;
 	display: block;
 	margin-top: 150px;
+	z-index: -1;
 }
 
 .location {
